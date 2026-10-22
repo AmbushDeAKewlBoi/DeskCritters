@@ -1,12 +1,33 @@
 ﻿<Window x:Class="DeskCritters.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:DeskCritters"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="DeskCritters"
+        Height="160"
+        Width="160"
+        WindowStyle = "None"
+        AllowsTransparency = "True"
+        Background = "Transparent"
+        Topmost = "True"
+        ShowInTaskbar="True"
+        ResizeMode="NoResize">
+    <Grid Background = "Transparent">
+        <Ellipse Width = "100"
+        Height = "100"
+        Fill = "#FFB86B"
+        Stroke = "#684126"
+        StrokeThickness="4"
+        MouseLeftButtonDown="Critter_MouseLeftButtonDown"/>
 
+        <StackPanel HorizontalAlignment="Center"
+        VerticalAlignment = "Center"
+        IsHitTestVisible = "False">
+            <TextBlock Text = "•   •"
+            FontSize="27"
+            HorizontalAlignment="Center"/>
+
+            <TextBlock Text= "ᴗ"
+            FontSize = "23"
+            HorizontalAlignment="Center"/>
+        </StackPanel>
     </Grid>
 </Window>

@@ -6,7 +6,6 @@ C:\Users\Lalith\Downloads\Hackclub\DeskCritters\bin\Debug\net10.0-windows\DeskCr
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\DeskCritters_MarkupCompile.cache
-C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\DeskCritters_MarkupCompile.lref
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\MainWindow.baml
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\DeskCritters.g.resources
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\DeskCritters.GeneratedMSBuildEditorConfig.editorconfig
@@ -18,3 +17,4 @@ C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\refint
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\DeskCritters.pdb
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\DeskCritters.genruntimeconfig.cache
 C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\ref\DeskCritters.dll
+C:\Users\Lalith\Downloads\Hackclub\DeskCritters\obj\Debug\net10.0-windows\DeskCritters.sourcelink.json

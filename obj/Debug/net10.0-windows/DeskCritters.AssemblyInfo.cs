@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeskCritters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c37fbc5b56d7d839421136019859641c5b31da4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeskCritters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeskCritters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
